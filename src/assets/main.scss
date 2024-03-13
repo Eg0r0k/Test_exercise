@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import "./reset";
+
+:root {
+  --gray-text: #8189a3;
+  --white-bg: #ffffff;
+  --purple-icon: #432eab;
+  --blueberry: #d4defe;
+  --black-text: #262c40;
+  --border-radius: 16px;
+  --box-padding: 24px;
+}
+
+body {
+  min-width: 371px;
+  font-family: "Roboto";
+  font-size: 14px;
+}
